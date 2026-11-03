@@ -2,7 +2,7 @@
 
 **Worked in banks. Sold to banks. Now I build for them.**
 
-[sbeihmazin-dev.github.io](https://sbeihmazin-dev.github.io) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/mazin-sbeih)
+[LinkedIn](https://www.linkedin.com/in/mazin-sbeih)
 
 <img src="assets/control-layer.svg" width="100%" alt="Animated diagram of my AI control layer: an agent proposes a change, a human approves scope, an edit made before the failing test is blocked by a hook, the failing test is written first, the build goes green, CodeRabbit reviews, and the merge waits for a human.">
 
