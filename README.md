@@ -1,6 +1,6 @@
 # Mazin Sbeih
 
-**Worked in banks. Sold to banks. Now I build for them.**
+**Worked in banks. Sold to banks. Now on a technical journey.**
 
 [LinkedIn](https://www.linkedin.com/in/mazin-sbeih)
 
