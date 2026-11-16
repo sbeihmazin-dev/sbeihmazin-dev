@@ -1,6 +1,6 @@
 # Mazin Sbeih
 
-**Worked in banks. Sold to banks. Now on a technical journey.**
+**A Decade in Banking, at both sides of the table**
 
 [LinkedIn](https://www.linkedin.com/in/mazin-sbeih)
 
